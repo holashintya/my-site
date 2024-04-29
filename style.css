@@ -1,0 +1,34 @@
+.color-special{
+    background-color: rgb(236, 255, 212);
+}
+
+.banner {
+    background: image-set("assets/8.jpg")
+        no-repeat center center;
+    background-size: cover;
+    padding-top:10%;
+    padding-bottom:10%;
+    color: #6d0e0e;
+}
+
+.lingkaran {
+    display:inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: rgb(254, 255, 255);
+    background-color: rgb(236, 255, 212);
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+.contact {
+    background: image-set("assets/14.jpg")
+    no-repeat center center;
+    background-size: cover; 
+    color: rgb(12, 12, 12);  
+}
